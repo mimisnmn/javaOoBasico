@@ -18,7 +18,7 @@ class DVDPlayerTestDrive {
 //        Por que no compila el codigo de abajo?
 //        DVDPlayer d = new DVDPlayer();
 //        d.canRecord = true;
-//        d.playDVD();
+//        d.playDVD(); (no esta esta función
 //
 //
 //        if (d.canRecord == true) {

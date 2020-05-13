@@ -1,8 +1,8 @@
 package com.testAutomationCoach.aAbstraccion;
 
 public class Button {
-    String label;
-    String color;
+    private String label;
+    private String color;
 
     public void setColor(String myColor) {}
 
